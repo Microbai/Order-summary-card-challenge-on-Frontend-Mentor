@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [link](https://https://github.com/Microbai/Order-summary-card-challenge-on-Frontend-Mentor)
-- Live Site URL: [link](https://your-live-site-url.com)
+- Live Site URL: [link](https://order-summary-card-challenge-on-frontend-mentor.vercel.app/)
 
 ## My process
 
